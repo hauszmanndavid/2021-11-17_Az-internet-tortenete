@@ -21,12 +21,18 @@ a, a:link, a:visited, a:active {
 }
 
 /* Fejléc */
+#header {
+  margin-bottom: 10px;
+}
 #header img {
 	display: block;
 }
 
 
 /* Navigációs sáv */
+#nav {
+  margin-bottom: 10px;
+}
 #nav {
 
 }
@@ -54,11 +60,17 @@ a, a:link, a:visited, a:active {
 }
 
 /* Tartalom */
+#content{
+  margin-bottom: 10px;
+}
 #content {
 
 }
 
 /*Lábléc  */
+#footer{
+  margin-bottom: 10px;
+}
 #footer {
 
 }
