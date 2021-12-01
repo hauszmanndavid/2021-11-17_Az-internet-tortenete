@@ -21,7 +21,7 @@ jobs:
         server: ftpupload.net
 
         # add New repository secret "ftp_username" at repo / Settings / Secrets menu on Github
-        username: ${{ secrets.ftp_username. }}
+        username: ${{ secrets.ftp_username }}
 
         # add New repository secret "ftp_password" at repo / Settings / Secrets menu on Github
         password: ${{ secrets.ftp_password }}
