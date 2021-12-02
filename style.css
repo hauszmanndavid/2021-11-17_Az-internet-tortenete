@@ -50,14 +50,16 @@ a, a:link, a:visited, a:active {
 }
 
 #nav a {
+  width: 150px;
 	display: block;
 	text-decoration: none;
 	padding: 0.5em 0;
 	font-weight: bold;
+  text-align: center;
 }
 
 #nav a:hover {
-background-color: #b1b7df);
+  background-color: #b1b7df);
 }
 
 /* Tartalom */
