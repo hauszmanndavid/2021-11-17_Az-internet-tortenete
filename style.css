@@ -59,7 +59,7 @@ a, a:link, a:visited, a:active {
 }
 
 #nav a:hover {
-  background-color: #b1b7df);
+  background-color: #b1b7df;
 }
 
 /* Tartalom */
@@ -88,5 +88,5 @@ a, a:link, a:visited, a:active {
 }
 
 .active {
-
+  background-color: white;
 }
