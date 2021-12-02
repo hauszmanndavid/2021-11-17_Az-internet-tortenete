@@ -65,6 +65,8 @@ a, a:link, a:visited, a:active {
 /* Tartalom */
 #content{
   margin-bottom: 10px;
+  background-color: white;
+  padding: 10px;
 }
 #content {
 
